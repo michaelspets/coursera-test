@@ -39,6 +39,9 @@ body {
   padding-bottom: 7px;
 
 }
+#nav-list a {
+  text-align: center;
+}
 #nav-list.navbar-nav>li>a {
   color: #000
 }
