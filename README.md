@@ -10,4 +10,4 @@ It  includes my solutions (in gh-pages branch) for the lesson's assignments.
 
   - [A JavaScript application](https://michaelspets.github.io/coursera-test/module4-solution/) (see the results on your web console)
 
-  - [An Ajax implementation for loading dynamically the contents of a restaurant's site](https://michaelspets.github.io/coursera-test/module4-solution/)
+  - [An Ajax implementation for loading dynamically the contents of a restaurant's site](https://michaelspets.github.io/coursera-test/module5-solution/)
